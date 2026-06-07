@@ -3,6 +3,24 @@
 > Visual and tonal language of Analog Machine.  
 > Not loud, not shouty, not TikTok — **quiet confidence**.
 
+**Cultural reference:** **Phoebe Philo** — Old Céline (2008–2017), same restraint in image. See [`BRAND.md`](BRAND.md#brand-dna--phoebe-philo).
+
+---
+
+## Celine test (before publish)
+
+Ask before every post, reel, or photo set:
+
+| Question | Pass | Fail |
+|----------|------|------|
+| Would this fit a Phoebe Philo lookbook? | Quiet, material-led, architectural | Loud, logo-first, chaotic |
+| Is the frame breathing? | Space, light, one subject | Clutter, filters, stickers |
+| Does it whisper or shout? | Whisper | Shout |
+| Logo / badge visible? | Small, earned | Dominant, promotional |
+| Color grade? | Neutral, stone, cream, black | Oversaturated, neon, chrome sparkle |
+
+If it fails → re-shoot or re-edit. **Better one quiet frame than ten loud ones.**
+
 ---
 
 ## Tone

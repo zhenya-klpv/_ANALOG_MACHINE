@@ -54,6 +54,8 @@ Recognizable feel: shooting style, light, edit, tone of voice.
 
 > "Ah, Analog Machine — always beautiful, quiet, clean, engineering, premium."
 
+**Target feel:** **Phoebe Philo / Old Céline** — same restraint, different medium. Celine test before publish: [`MEDIA_STYLE.md`](MEDIA_STYLE.md).
+
 Style: [`MEDIA_STYLE.md`](MEDIA_STYLE.md) — **quiet premium engineering**.
 
 ---

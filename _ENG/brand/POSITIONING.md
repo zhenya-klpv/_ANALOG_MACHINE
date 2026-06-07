@@ -23,7 +23,11 @@
 - Light, responsive, mechanical
 - Sound, weight, balance, stance — not dyno numbers
 - Visually and **tactilely** 10× donor price
+- Same category as analog taste objects — Omega, Leica, Technics, Pelikan: **pleasure from use**, not specs on a screen
+- **Phoebe Philo / Old Céline energy** — quiet luxury, architectural, material-led; insider taste, not logo flex
 - Photo/video on real canyon roads — not parking lot
+
+Why this matters: [`../VISION.md`](../VISION.md#why-analog-machine) · brand DNA: [`BRAND.md`](BRAND.md#brand-dna--phoebe-philo)
 
 ---
 

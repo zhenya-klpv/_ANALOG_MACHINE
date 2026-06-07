@@ -16,6 +16,53 @@
 
 ---
 
+## Brand DNA — Phoebe Philo
+
+> **Analog Machine должен ощущаться как Old Céline при Phoebe Philo** — не мода, а та же *температура*.
+
+**Phoebe Philo** — дизайнер. Creative director в **Chloé** (2001–2006), затем **Céline** (2008–2017). Годы в Céline — это **Old Céline**: минимализм, интеллектуальная женственность, роскошная простота, дорогие материалы без крика логотипами. Вернулась со своим брендом **Phoebe Philo** (2023, phoebephilo.com) — тот же DNA, актуален до сих пор.
+
+**Phoebe Philo = аналоговая роскошь в моде.** Не flashy — очень точная, взрослая, желанная, почти инженерная.
+
+Не громкий люкс. Не logo-люкс. **Тихий, интеллектуальный, тактильный люкс** для людей, у которых уже есть вкус и не нужно его доказывать.
+
+Она сделала luxury не «богатым» внешне, а **умным**. Без золотых логотипов, без vulgar glamour — просто идеальная форма, кожа, пропорции, силуэт. Fashion-эквивалент **A. Lange & Söhne, Leica, Grand Seiko, Porsche 911 by Singer**.
+
+| Old Céline (Phoebe) | Analog Machine |
+|---------------------|----------------|
+| Без кричащего лого | Маленький **AM** badge; карбон под покраску, не billboard weave |
+| Материалы важнее брендинга | Кожа, Alcantara, металл, карбон — ощущаются, а не читаются |
+| Архитектурный силуэт | OEM+ пропорции; чистые линии; ничего лишнего |
+| Сдержанная палитра | Чёрный, stone, cream, тёмный зелёный — не candy, не хром |
+| Культура для своих | Для тех, кто знает Omega, Leica, E39 — не для всех |
+| Anti-hype | Без burnouts, dyno wars, пацан-тюнинг энергии |
+| Effortless | Выглядит неизбежно, а не «сделано, чтобы впечатлить» |
+| Интеллектуальный cool | Инженерная честность; решения объясняются, а не кричат |
+
+### Культовые сумки — уроки формы для AM36
+
+Не «мы делаем сумки». Это **референсы формы** — как выглядит «правильно».
+
+| Сумка | Чему учит |
+|-----|-----------------|
+| **Céline Luggage Tote** | Иконический силуэт без logo flex — узнаваемая форма, тихое присутствие |
+| **Céline Phantom** | Мягкий архитектурный объём — пропорция и масса, не агрессия |
+| **Céline Trapeze** | Узнаваемая форма с боковыми «крыльями» — характер через геометрию, не наклейки |
+| **Céline Trio** | Минимальная crossbody из трёх отделений — функциональная ясность, ничего лишнего |
+| **Céline Classic Box Bag** | Тихая, строгая, почти идеальная — **энергия салона AM36 и plaque** |
+
+Trapeze и Phantom до сих пор живут на resale и в соцсетях — доказательство, что **вневременная форма побеждает тренд**.
+
+**Одна фраза для команды:**
+
+> Phoebe Philo energy, car form — **тихие объекты для людей, которые всё ещё хотят что-то чувствовать**.
+
+Визуал: [`MEDIA_STYLE.md`](MEDIA_STYLE.md) · позиционирование: [`POSITIONING.md`](POSITIONING.md)
+
+**Не:** Hedi Slimane Céline, Gucci maximalism, Supreme hype, Mansory, Liberty Walk, TikTok garage.
+
+---
+
 ## Иерархия (финальная структура)
 
 | Уровень | Значение |
@@ -89,6 +136,44 @@ Handbuilt in California
 
 Rolex не обновляется по Wi-Fi — но желанный: механизм, статус, объект.  
 Так же **Analog Machine** — feel, presence, motion — не feeds.
+
+---
+
+## Manifesto
+
+Полный текст: [`../VISION.md`](../VISION.md#почему-analog-machine)
+
+### Analog taste — референсные объекты
+
+Не shopping list — **компас вкуса**. Та же категория, что и Analog Machine: тактильные, механические, честные.
+
+| Категория | Примеры |
+|----------|----------|
+| Часы | Omega Speedmaster · Cartier Santos |
+| Письмо | Montblanc 146 · Pelikan M800 |
+| Аудио | Technics SL-1200 · McIntosh amplifier · Nagra recorder |
+| Кофе | Olympia Cremina · La Pavoni lever espresso |
+| Фото | Hasselblad 500CM · Leica M6 |
+| Объекты | Curta mechanical calculator · S.T. Dupont Ligne 2 lighter |
+| Мода | **Phoebe Philo / Old Céline** (Luggage, Phantom, Box Bag) · Margiela Tabi · Hermès |
+| Велосипеды | Campagnolo · Chris King builds |
+| Авто | Porsche 911 · BMW E36 / E39 · Audi S6 Avant · Saab Viggen |
+
+Общее: **удовольствие от прикосновения, звука, движения, ритуала** — не цифры на экране.
+
+### Manifesto copy (готово к использованию)
+
+**Сайт / about / press:**
+> In a world turning digital, disposable, and contactless — we build mechanical cars for people who still want to feel something.
+
+**Hero / video close:**
+```
+Handbuilt in California.
+Made for people who still want to feel something.
+```
+
+**Коротко:**
+> Mechanical objects of desire — not transport.
 
 ---
 

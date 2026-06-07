@@ -4,7 +4,7 @@
 > **Update** after major decisions, build milestones, demo car, pricing, brand.  
 > **Working path (EN):** `/Users/zhenya/Documents/_analog_machine/_ENG/`  
 > **Russian:** `../_RU/`  
-> **Last updated:** June 7, 2026 (v1.3 — founding team, workspace, 90d sprint)
+> **Last updated:** June 7, 2026 (v1.6 — Phoebe Philo brand DNA expanded)
 
 ---
 
@@ -13,6 +13,10 @@
 **Analog Machine** — brand: analog cars, **Handbuilt in California**. Not an appliance — a mechanical object.  
 **Signature:** *Handbuilt in California* · **Philosophy:** *Mechanical cars for the digital age.*  
 **Studio:** Analog Machine Works (documents, build books). See `brand/BRAND.md`.
+
+**Why we exist:** counterweight to AI, gadgets, smart everything, EV-as-default. We build **mechanical objects of desire** — tactile, analog, honest — in the same taste category as Omega, Leica, Technics, Pelikan, Porsche 911, E36/E39. *Made for people who still want to feel something.* Full manifesto: `VISION.md` § Why Analog Machine · taste list: `brand/BRAND.md` § Manifesto.
+
+**Brand temperature:** **Phoebe Philo** — Old Céline (2008–2017): quiet luxury, material-led, architectural, anti-hype. Fashion equivalent of A. Lange, Leica, Grand Seiko, Singer 911. Form refs: Luggage, Phantom, Trapeze, Trio, Classic Box Bag. *Phoebe Philo energy, car form.* `brand/BRAND.md` § Brand DNA · Celine test: `brand/MEDIA_STYLE.md`.
 
 **North star (long-term):** **AM36** / Analog Machine 36 — canyon car, full commissions.  
 **Now (bootstrap):** no spare cash (loans + rent) → **not a coachbuilder shop**, but **media + portfolio + small paid orders**. See `BOOTSTRAP.md`.

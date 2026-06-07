@@ -54,6 +54,8 @@ Weight shots, process hours, material close-ups — **justify the price**.
 
 > «А, это Analog Machine — всегда красиво, спокойно, чисто, инженерно и дорого.»
 
+**Целевое ощущение:** **Phoebe Philo / Old Céline** — та же сдержанность, другой носитель. Celine test перед публикацией: [`MEDIA_STYLE.md`](MEDIA_STYLE.md).
+
 Стиль: [`MEDIA_STYLE.md`](MEDIA_STYLE.md) — **quiet premium engineering**.
 
 ---

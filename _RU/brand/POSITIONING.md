@@ -23,7 +23,11 @@
 - Лёгкая, отзывчивая, механическая
 - Звук, вес, баланс, посадка — не цифры на dyno
 - Визуально и **тактильно** в 10× дороже donor
+- Та же категория, что analog taste objects — Omega, Leica, Technics, Pelikan: **удовольствие от использования**, не цифры на экране
+- **Phoebe Philo / Old Céline energy** — quiet luxury, архитектурно, через материалы; вкус для своих, не logo flex
 - Фото/видео на реальных canyon roads — не parking lot
+
+Почему это важно: [`../VISION.md`](../VISION.md#почему-analog-machine) · brand DNA: [`BRAND.md`](BRAND.md#brand-dna--phoebe-philo)
 
 ---
 

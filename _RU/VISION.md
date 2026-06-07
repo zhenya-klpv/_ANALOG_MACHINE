@@ -11,6 +11,31 @@
 Аналоговые машины вручную в Калифорнии — Highway 9, Skyline, Pacific Coast.  
 Не appliance, не «тюнинг-шоп». Feel, presence, motion — не feeds.
 
+## Почему Analog Machine
+
+Мир огромными темпами движется в сторону искусственного интеллекта, цифровых систем и автоматизации. У нас на руках гаджеты, вокруг ноутбуки, смартфоны, голосовые помощники, умные дома, умные рисоварки, которые разговаривают с вами, пока готовят еду. Электрические машины становятся нормой. Даже Ferrari сделала электрический автомобиль.
+
+Всё это удобно, быстро и технологично. Но в какой-то момент это начинает давить. Хочется выключить уведомления, завести настоящий мотор и уехать в каньон — не ради скорости, а ради ощущения, что ты снова сам управляешь моментом.
+
+**Analog Machine существует именно для этого.**
+
+Мы верим в вещи, которые ощущаются руками. В вещи с механикой, весом, звуком, запахом, сопротивлением и характером. В предметы, которые не просто выполняют функцию, а дают тонкое удовольствие от самого процесса использования.
+
+Omega Speedmaster. Cartier Santos. Montblanc 146. Pelikan M800. Technics SL-1200. McIntosh amplifier. Olympia Cremina. La Pavoni lever espresso. Hasselblad 500CM. Leica M6. Curta mechanical calculator. S.T. Dupont Ligne 2 lighter. Nagra recorder. Campagnolo и Chris King bicycle build. Porsche 911. BMW E36 и E39. Audi S6 Avant. Saab Viggen.
+
+Все эти вещи объединяет не возраст и не цена. Их объединяет **вкус**. Они аналоговые, тактильные, честные. Удовольствие от прикосновения, звука, движения, маленького ритуала — детский восторг, когда предмет не просто работает, а живёт вместе с тобой.
+
+**Analog Machine — про такие ощущения.**
+
+Мы строим автомобили не как транспорт, а как механические объекты желания. Машины, которые хочется рассматривать, трогать, заводить, слушать и вести. Где каждая деталь имеет смысл: форма, материал, посадка, звук, усилие на руле, ход педали, фактура карбона, металл, кожа, свет.
+
+В мире, где всё становится цифровым, одноразовым и бесконтактным, мы выбираем другое направление.
+
+> **Handbuilt in California.**  
+> **Made for people who still want to feel something.**
+
+Список-референс и copy hooks: [`brand/BRAND.md`](brand/BRAND.md#manifesto)
+
 ## North star (долгосрочно)
 
 Создавать **Analog Machine** builds — **AM36**, **AM39**.  
@@ -44,11 +69,15 @@
 
 ## Visual language
 
+- **Phoebe Philo / Old Céline temperature** — quiet luxury, через материалы, архитектурно; вкус для своих, не logo flex
 - **OEM+ Motorsport minimalism** — как заводской прототип, который не выпустили
 - Painted carbon, не exposed weave (кроме controlled accent details)
 - Period-correct proportions, no stance, no gratuitous widebody
 - Interior: Alcantara, leather, clean lines, hidden modern tech
+- Палитра: black, stone, cream, тёмный зелёный — сдержанно, не candy и не хром
 - Photography: architectural, quiet luxury — не гаражный хаос
+
+Brand DNA: [`brand/BRAND.md`](brand/BRAND.md#brand-dna--phoebe-philo)
 
 ## Customer
 

@@ -16,6 +16,53 @@ Not "we do BMW." Not "we're better than BMW" — **our interpretation of the pla
 
 ---
 
+## Brand DNA — Phoebe Philo
+
+> **Analog Machine should feel like Old Céline under Phoebe Philo** — not fashion, but the same *temperature*.
+
+**Phoebe Philo** — the designer. Creative director at **Chloé** (2001–2006), then **Céline** (2008–2017). The Céline years are **Old Céline**: minimalism, intellectual femininity, luxurious simplicity, expensive materials without logo noise. She returned with her own line **Phoebe Philo** (2023, phoebephilo.com) — same DNA, still relevant.
+
+**Phoebe Philo = analog luxury in fashion.** Not flashy — precise, adult, desirable, almost engineering.
+
+Not loud luxury. Not logo luxury. **Quiet, intellectual, tactile luxury** for people who already have taste and don't need to prove it.
+
+She made luxury not "rich-looking" but **smart**. No gold logos, no vulgar glamour — just perfect form, leather, proportion, silhouette. The fashion equivalent of **A. Lange & Söhne, Leica, Grand Seiko, Porsche 911 by Singer**.
+
+| Old Céline (Phoebe) | Analog Machine |
+|---------------------|----------------|
+| No logo shouting | Small **AM** badge; carbon painted, not billboard weave |
+| Materials over branding | Leather, Alcantara, metal, carbon — felt, not read |
+| Architectural silhouette | OEM+ proportions; clean lines; nothing gratuitous |
+| Restrained palette | Black, stone, cream, subtle green — not candy, not chrome |
+| Insider culture | For people who know Omega, Leica, E39 — not for everyone |
+| Anti-hype | No burnouts, no dyno wars, no bro-tuning energy |
+| Effortless | Looks inevitable, not "built to impress" |
+| Intellectual cool | Engineering honesty; decisions explained, not shouted |
+
+### Iconic bags — design lessons for AM36
+
+Not "we make bags." These are **form references** — what right looks like.
+
+| Bag | What it teaches |
+|-----|-----------------|
+| **Céline Luggage Tote** | Iconic silhouette without logo flex — recognizable shape, quiet presence |
+| **Céline Phantom** | Soft architectural volume — proportion and mass, not aggression |
+| **Céline Trapeze** | Distinctive form with side "wings" — character through geometry, not stickers |
+| **Céline Trio** | Three-part minimal crossbody — functional clarity, nothing extra |
+| **Céline Classic Box Bag** | Quiet, strict, almost perfect — **the AM36 interior and plaque energy** |
+
+Trapeze and Phantom still live on resale and social — proof that **timeless form beats trend**.
+
+**One line for the team:**
+
+> Phoebe Philo energy, car form — **quiet objects for people who still want to feel something**.
+
+Visual execution: [`MEDIA_STYLE.md`](MEDIA_STYLE.md) · positioning: [`POSITIONING.md`](POSITIONING.md)
+
+**Not:** Hedi Slimane Céline, Gucci maximalism, Supreme hype, Mansory, Liberty Walk, TikTok garage.
+
+---
+
 ## Hierarchy (final structure)
 
 | Level | Meaning |
@@ -89,6 +136,44 @@ Not "old is better than new." **An analog thing can be more expensive, more desi
 
 Rolex doesn't update over Wi-Fi — but it's desirable: mechanism, status, object.  
 Same for **Analog Machine** — feel, presence, motion — not feeds.
+
+---
+
+## Manifesto
+
+Full narrative: [`../VISION.md`](../VISION.md#why-analog-machine)
+
+### Analog taste — reference objects
+
+Not a shopping list — a **taste compass**. Same category as Analog Machine: tactile, mechanical, honest.
+
+| Category | Examples |
+|----------|----------|
+| Watches | Omega Speedmaster · Cartier Santos |
+| Writing | Montblanc 146 · Pelikan M800 |
+| Audio | Technics SL-1200 · McIntosh amplifier · Nagra recorder |
+| Coffee | Olympia Cremina · La Pavoni lever espresso |
+| Photography | Hasselblad 500CM · Leica M6 |
+| Objects | Curta mechanical calculator · S.T. Dupont Ligne 2 lighter |
+| Fashion | **Phoebe Philo / Old Céline** (Luggage, Phantom, Box Bag) · Margiela Tabi · Hermès |
+| Bicycles | Campagnolo · Chris King builds |
+| Cars | Porsche 911 · BMW E36 / E39 · Audi S6 Avant · Saab Viggen |
+
+What they share: **pleasure from touch, sound, movement, ritual** — not specs on a screen.
+
+### Manifesto copy (ready to use)
+
+**Site / about / press:**
+> In a world turning digital, disposable, and contactless — we build mechanical cars for people who still want to feel something.
+
+**Hero / video close:**
+```
+Handbuilt in California.
+Made for people who still want to feel something.
+```
+
+**Short:**
+> Mechanical objects of desire — not transport.
 
 ---
 
