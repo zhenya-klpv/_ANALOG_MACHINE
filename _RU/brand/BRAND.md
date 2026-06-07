@@ -157,7 +157,7 @@ Rolex не обновляется по Wi-Fi — но желанный: меха
 | Объекты | Curta mechanical calculator · S.T. Dupont Ligne 2 lighter |
 | Мода | **Phoebe Philo / Old Céline** (Luggage, Phantom, Box Bag) · Margiela Tabi · Hermès |
 | Велосипеды | Campagnolo · Chris King builds |
-| Авто | Porsche 911 · BMW E36 / E39 · Audi S6 Avant · Saab Viggen |
+| Авто | Porsche 911 · 944 · BMW E36 / E39 · Audi S6 Avant · Saab Viggen |
 
 Общее: **удовольствие от прикосновения, звука, движения, ритуала** — не цифры на экране.
 

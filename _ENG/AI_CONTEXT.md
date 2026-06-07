@@ -14,7 +14,7 @@
 **Signature:** *Handbuilt in California* · **Philosophy:** *Mechanical cars for the digital age.*  
 **Studio:** Analog Machine Works (documents, build books). See `brand/BRAND.md`.
 
-**Why we exist:** counterweight to AI, gadgets, smart everything, EV-as-default. We build **mechanical objects of desire** — tactile, analog, honest — in the same taste category as Omega, Leica, Technics, Pelikan, Porsche 911, E36/E39. *Made for people who still want to feel something.* Full manifesto: `VISION.md` § Why Analog Machine · taste list: `brand/BRAND.md` § Manifesto.
+**Why we exist:** counterweight to AI, gadgets, smart everything, EV-as-default. We build **mechanical objects of desire** — tactile, analog, honest — in the same taste category as Omega, Leica, Technics, Pelikan, Porsche 911/944, E36/E39. *Made for people who still want to feel something.* Full manifesto: `VISION.md` § Why Analog Machine · taste list: `brand/BRAND.md` § Manifesto.
 
 **Brand temperature:** **Phoebe Philo** — Old Céline (2008–2017): quiet luxury, material-led, architectural, anti-hype. Fashion equivalent of A. Lange, Leica, Grand Seiko, Singer 911. Form refs: Luggage, Phantom, Trapeze, Trio, Classic Box Bag. *Phoebe Philo energy, car form.* `brand/BRAND.md` § Brand DNA · Celine test: `brand/MEDIA_STYLE.md`.
 
@@ -74,6 +74,7 @@ If a part doesn't make the car **lighter, more beautiful, more reliable, or bett
 | **1 — now** | BMW E36 coupe/sedan | Demo car, first product |
 | 2 | BMW E39 540i/M5-style | Executive GT, second stage |
 | — | Miata NA/NB | Fast prototype / proof of capability, lower luxury ceiling |
+| — | Porsche 944 | Analog taste reference — transaxle, 80s purity, canyon feel |
 | — | Porsche 996 | Interesting, but higher entry cost |
 | — | Saab 9-3 Viggen | Emotional, small niche |
 

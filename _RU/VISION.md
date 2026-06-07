@@ -21,7 +21,7 @@
 
 Мы верим в вещи, которые ощущаются руками. В вещи с механикой, весом, звуком, запахом, сопротивлением и характером. В предметы, которые не просто выполняют функцию, а дают тонкое удовольствие от самого процесса использования.
 
-Omega Speedmaster. Cartier Santos. Montblanc 146. Pelikan M800. Technics SL-1200. McIntosh amplifier. Olympia Cremina. La Pavoni lever espresso. Hasselblad 500CM. Leica M6. Curta mechanical calculator. S.T. Dupont Ligne 2 lighter. Nagra recorder. Campagnolo и Chris King bicycle build. Porsche 911. BMW E36 и E39. Audi S6 Avant. Saab Viggen.
+Omega Speedmaster. Cartier Santos. Montblanc 146. Pelikan M800. Technics SL-1200. McIntosh amplifier. Olympia Cremina. La Pavoni lever espresso. Hasselblad 500CM. Leica M6. Curta mechanical calculator. S.T. Dupont Ligne 2 lighter. Nagra recorder. Campagnolo и Chris King bicycle build. Porsche 911 и 944. BMW E36 и E39. Audi S6 Avant. Saab Viggen.
 
 Все эти вещи объединяет не возраст и не цена. Их объединяет **вкус**. Они аналоговые, тактильные, честные. Удовольствие от прикосновения, звука, движения, маленького ритуала — детский восторг, когда предмет не просто работает, а живёт вместе с тобой.
 

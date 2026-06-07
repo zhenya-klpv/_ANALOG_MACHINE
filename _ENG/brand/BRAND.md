@@ -157,7 +157,7 @@ Not a shopping list — a **taste compass**. Same category as Analog Machine: ta
 | Objects | Curta mechanical calculator · S.T. Dupont Ligne 2 lighter |
 | Fashion | **Phoebe Philo / Old Céline** (Luggage, Phantom, Box Bag) · Margiela Tabi · Hermès |
 | Bicycles | Campagnolo · Chris King builds |
-| Cars | Porsche 911 · BMW E36 / E39 · Audi S6 Avant · Saab Viggen |
+| Cars | Porsche 911 · 944 · BMW E36 / E39 · Audi S6 Avant · Saab Viggen |
 
 What they share: **pleasure from touch, sound, movement, ritual** — not specs on a screen.
 

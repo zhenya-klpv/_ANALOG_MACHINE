@@ -21,7 +21,7 @@ All of it is convenient, fast, and impressive. But at some point it starts to we
 
 We believe in things you feel with your hands. Things with mechanics, weight, sound, smell, resistance, and character. Objects that don't just perform a function — they give quiet pleasure from the act of using them.
 
-Omega Speedmaster. Cartier Santos. Montblanc 146. Pelikan M800. Technics SL-1200. McIntosh amplifier. Olympia Cremina. La Pavoni lever espresso. Hasselblad 500CM. Leica M6. Curta mechanical calculator. S.T. Dupont Ligne 2 lighter. Nagra recorder. Campagnolo and Chris King bicycle builds. Porsche 911. BMW E36 and E39. Audi S6 Avant. Saab Viggen.
+Omega Speedmaster. Cartier Santos. Montblanc 146. Pelikan M800. Technics SL-1200. McIntosh amplifier. Olympia Cremina. La Pavoni lever espresso. Hasselblad 500CM. Leica M6. Curta mechanical calculator. S.T. Dupont Ligne 2 lighter. Nagra recorder. Campagnolo and Chris King bicycle builds. Porsche 911 and 944. BMW E36 and E39. Audi S6 Avant. Saab Viggen.
 
 What unites them isn't age or price. It's **taste**. They're analog, tactile, honest. Pleasure from touch, sound, movement, small rituals — childlike wonder when an object doesn't just work, but lives with you.
 

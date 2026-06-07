@@ -14,7 +14,7 @@
 **Signature:** *Handbuilt in California* · **Philosophy:** *Mechanical cars for the digital age.*  
 **Студия:** Analog Machine Works (документы, build books). См. `brand/BRAND.md`.
 
-**Зачем существуем:** противовес AI, гаджетам, smart-everything, EV как норме. Строим **механические объекты желания** — тактильные, аналоговые, честные — в той же категории вкуса, что Omega, Leica, Technics, Pelikan, Porsche 911, E36/E39. *Made for people who still want to feel something.* Полный manifesto: `VISION.md` § Почему Analog Machine · список вкуса: `brand/BRAND.md` § Manifesto.
+**Зачем существуем:** противовес AI, гаджетам, smart-everything, EV как норме. Строим **механические объекты желания** — тактильные, аналоговые, честные — в той же категории вкуса, что Omega, Leica, Technics, Pelikan, Porsche 911/944, E36/E39. *Made for people who still want to feel something.* Полный manifesto: `VISION.md` § Почему Analog Machine · список вкуса: `brand/BRAND.md` § Manifesto.
 
 **Температура бренда:** **Phoebe Philo** — Old Céline (2008–2017): quiet luxury, через материалы, архитектурно, anti-hype. Fashion-эквивалент A. Lange, Leica, Grand Seiko, Singer 911. Референсы формы: Luggage, Phantom, Trapeze, Trio, Classic Box Bag. *Phoebe Philo energy, car form.* `brand/BRAND.md` § Brand DNA · Celine test: `brand/MEDIA_STYLE.md`.
 
@@ -74,6 +74,7 @@ Full-time jobs → **2 вечера/нед**, nights-only project. См. `TEAM.m
 | **1 — сейчас** | BMW E36 coupe/sedan | Demo car, первый продукт |
 | 2 | BMW E39 540i/M5-style | Executive GT, второй этап |
 | — | Miata NA/NB | Быстрый prototype / proof of capability, ниже luxury ceiling |
+| — | Porsche 944 | Analog taste reference — transaxle, 80s purity, canyon feel |
 | — | Porsche 996 | Интересно, но дороже вход |
 | — | Saab 9-3 Viggen | Эмоционально, ниша мала |
 
