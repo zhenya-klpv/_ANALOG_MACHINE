@@ -5,13 +5,44 @@
 
 ---
 
-## Команда (3)
+## Команда (3–4)
+
+**Минимум для старта: 3.** **Максимум на bootstrap: 4.** Пять и больше — слишком много для nights-only; тормозит решения и размывает доли.
+
+### Ядро (3) — обязательно
 
 | Человек | Роль | Зона ответственности |
 |---------|------|----------------------|
 | **Zhenya** | Creative Director · Brand · Build Lead | Концепт, визуал, Instagram/YouTube, дизайн деталей, контент, QC, клиенты/партнёры |
 | **Друг с E36** | Vehicle Lead · Mechanical Lead | Donor car, механика, подвеска/тормоза/drivetrain, разборка/сборка, OEM+ plan |
 | **Композитный инженер** | Composite Lead · Product Lead | Материалы, формы, технология, repeatability, тесты, продуктовые детали |
+
+### Идеальный 4-й — **с помещением**
+
+**Лучший сценарий четвёртого founder:** человек, который приносит **помещение** — гараж, barn, угол в shop, rural property. Закрывает самую сложную bootstrap-задачу (где работать) без Craigslist за $300–700/мес.
+
+| Что вносит | Что получает команда |
+|-----------------|-----------|
+| 2-car garage / barn / shared bay | Evening access, composite + film, одна E36 |
+| Электричество, сухая крыша, замок | Без commercial lease drama |
+| Знание места (Highway 9, South Bay) | Атмосфера для контента + логистика |
+
+**Доля:** помещение — **реальный вклад** → большая доля или сниженная аренда / barter — но **письменно** (см. `FOUNDER_AGREEMENT.md`, логика варианта C). Не «бесплатный гараж = автоматические 25%».
+
+### Другие 4-е роли — если нет кандидата с помещением
+
+Четвёртого добавляем **только** если он закрывает пробел, который трое не потянут. Не «друг, который хочет быть в проекте».
+
+| Возможная 4-я роль | Когда имеет смысл |
+|-------------------|---------------------|
+| **Помещение + light fab** | Владелец гаража, который ещё варит, делает trim или body prep |
+| **Film / content lead** | Zhenya не тянет съёмку + монтаж + бренд один |
+| **Paint / body** | Реальная покраска в своём space |
+| **CAD / fabrication** | Металл, оснастка, trim за пределами композита |
+
+**Правило:** 4-й входит с **письменной ролью + часами/нед + что вносит (помещение? инструмент?) + vesting** — как все. Не «advisor с 25%».
+
+См. [`WORKSPACE.md`](WORKSPACE.md) · если 4-й с помещением — Craigslist становится plan B.
 
 **Контекст:** Zhenya + mechanical friend — tech comm в **Optimus (Tesla)**. Composite engineer — композиты professionally.
 
@@ -54,14 +85,14 @@
 
 ## Доли и equity
 
-**Не «33% навсегда» сразу** — вклады разные.
+**Не поровну по головам** (33% × 3 или 25% × 4) — вклады разные.
 
 | Принцип | Правило |
 |---------|---------|
 | Собственность | Машина, инструменты — у владельцев |
 | Бренд | Co-founders по соглашению |
 | Будущие доли | Vesting 6–12 мес по вкладу/времени |
-| Выход рано | Не забирает треть бренда |
+| Выход рано | Не забирает долю бренда без vesting |
 | Деньги/машина | Отдельный вклад, не автоматическая доля |
 
 LLC — позже. Сейчас: **Founder Agreement 1–2 стр.**
@@ -97,6 +128,6 @@ LLC — позже. Сейчас: **Founder Agreement 1–2 стр.**
 
 Искать не «мне гараж», а:
 
-> We are a three-person technical team building a handbuilt BMW E36 demonstrator. Clean shared garage for one car, light fabrication, composite prototyping, filming. Evening access 1–3×/week.
+> We are a 3–4 person technical team building a handbuilt BMW E36 demonstrator. Clean shared garage for one car, light fabrication, composite prototyping, filming. Evening access 1–3×/week.
 
 См. [`WORKSPACE.md`](WORKSPACE.md)

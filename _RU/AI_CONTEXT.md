@@ -4,7 +4,7 @@
 > **Обновлять** после крупных решений, этапов билда, появления demo car, pricing, бренда.  
 > **Рабочий путь (RU):** `/Users/zhenya/Documents/_analog_machine/_RU/`  
 > **English:** `../_ENG/`  
-> **Последнее обновление:** 7 июня 2026 (v1.6 — Phoebe Philo brand DNA expanded)
+> **Последнее обновление:** 7 июня 2026 (v1.8 — идеальный 4-й = помещение)
 
 ---
 
@@ -23,10 +23,11 @@
 
 **Первый продукт сейчас:** beautiful composite parts + design-led details — **1–2 детали на E36**, не полный рестомод.
 
-**Founding team (3):**
+**Founding team (3–4):** мин **3**, макс **4** на bootstrap.
 - **Zhenya** — brand, content, design, build lead (Optimus Tesla, tech comm)
 - **Friend + E36** — vehicle/mechanical lead, donor car
 - **Composite engineer** — composite/product lead
+- **Идеальный 4-й** — **founder с помещением** (гараж/barn/shop). Альт: film, fab, paint. См. `TEAM.md` · `WORKSPACE.md`.
 
 Full-time jobs → **2 вечера/нед**, nights-only project. См. `TEAM.md`, `SPRINT_90D.md`, `FOUNDER_AGREEMENT.md`.
 
@@ -197,7 +198,7 @@ Rebuilt M52/S52 · 250–320 hp · suspension/brakes · −80–150 lb · canyon
 - [ ] Данные donor E36
 - [ ] Cost estimate первой детали (не hood)
 - [x] Brand: **Analog Machine** · **Works** · **AM** · **AM36**
-- [x] Founding team (3) — `TEAM.md`
-- [ ] Founder Agreement — 3 подписи
+- [x] Founding team (3–4) — `TEAM.md`
+- [ ] Founder Agreement — подписи всех founders
 - [ ] Workspace: $___/mo или free (friend garage)
 - [ ] Первая деталь sprint: _______________

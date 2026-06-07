@@ -112,11 +112,11 @@ Full packages, AM36 builds, commissions — see [`PRICING.md`](PRICING.md), [`VI
 
 ## Resources (already have)
 
-- **Founding team (3):** brand lead · E36 vehicle lead · composite engineer (Optimus Tesla network)
+- **Founding team (3–4):** brand · E36/mechanical · composite · **ideal 4th = premises** (garage/barn) — see `TEAM.md`
 - E36 donor — with vehicle lead
 - Full-time jobs → 2 evenings/week, not panic pace
 - Process, documentation, taste, content
-- California / canyon culture
+- California / Canyon Culture
 
 See [`TEAM.md`](TEAM.md) · [`SPRINT_90D.md`](SPRINT_90D.md)
 

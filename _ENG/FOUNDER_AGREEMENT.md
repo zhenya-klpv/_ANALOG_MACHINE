@@ -1,17 +1,20 @@
 # Founder Agreement — Draft
 
-> **Template** for discussion among three founders. Not legal advice — basis for an honest conversation.  
+> **Template** for discussion among **3–4 founders** (minimum 3, maximum 4 at bootstrap). Not legal advice — basis for an honest conversation.  
 > Fill in and sign (or acknowledge in writing) **before** major spending.
 
 ---
 
 ## 1. Participants
 
+**Team size:** ☐ 3 founders · ☐ 4 founders
+
 | Name | Role |
 |------|------|
 | | Creative Director / Brand (Zhenya) |
 | | Vehicle / Mechanical Lead |
 | | Composite Lead |
+| | *(optional)* **Premises lead** (garage/barn) or Film / Fab / Paint — see [`TEAM.md`](TEAM.md) |
 
 **Project:** Analog Machine · AM36 No. 001  
 **Date:** _______________
@@ -25,8 +28,9 @@
 | | Brand, content, design, ___ hr/week |
 | | BMW E36 (VIN: ___), mechanics, garage access? Y/N |
 | | Composite engineering, materials expertise, ___ hr/week |
+| | *(if 4th)* _______________, ___ hr/week, premises: ☐ Y ☐ N, address: ___ |
 
-**Money for materials:** only after **all three agree**. No one spends solo > $___ without OK.
+**Money for materials:** only after **all founders agree**. No one spends solo > $___ without OK.
 
 ---
 
@@ -43,7 +47,7 @@
 
 ## 4. Intellectual property
 
-- **Brand** Analog Machine, AM logo, part designs — belongs to **project / all three** by share: ___% / ___% / ___%
+- **Brand** Analog Machine, AM logo, part designs — belongs to **project / all founders** by share: ___% / ___% / ___% / ___%
 - No one sells design, brand, or parts **separately** without all-party consent
 - Personal tools remain with owner
 
@@ -52,7 +56,7 @@
 ## 5. Decisions
 
 - **Day-to-day:** each in their zone (see TEAM.md)
-- **Brand, money > $__, selling parts, publications:** consensus of three or majority: ___
+- **Brand, money > $__, selling parts, publications:** consensus of all founders or majority: ___
 - **Dispute:** 48h discussion first; then: _______________
 
 ---
@@ -62,7 +66,7 @@
 | Rule | |
 |---------|---|
 | Expenses | Agreed in advance |
-| Revenue from parts / orders | ___% / ___% / ___% after costs |
+| Revenue from parts / orders | ___% / ___% / ___% / ___% after costs |
 | Reinvest vs payout | _______________ |
 
 ---
@@ -92,6 +96,7 @@ If a participant leaves:
 | | | |
 | | | |
 | | | |
+| | | *(if 4th)* |
 
 ---
 

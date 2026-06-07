@@ -4,7 +4,20 @@
 > **Prototype studio:** дешёвый, сухой, легальный, evening access.  
 > Full-time job → **1–3 вечера / нед**, без customer traffic.
 
-Команда: 3 человека — см. [`TEAM.md`](TEAM.md)
+Команда: **3–4** — см. [`TEAM.md`](TEAM.md)
+
+**Идеальный 4-й founder = с помещением.** Если четвёртый входит с гаражом/barn/углом в shop — проблема workspace в основном решена; Craigslist становится plan B.
+
+---
+
+## Приоритет поиска
+
+| Приоритет | Источник | Заметки |
+|----------|--------|-------|
+| **1 — идеал** | **4-й founder с помещением** | Гараж, barn, shop corner; evening access; см. TEAM.md |
+| **2** | Гараж vehicle lead | Бесплатно — первый ask; E36 + часть работ |
+| **3** | Craigslist / community | $300–700/мес, текст объявления ниже |
+| **4** | Barter с body shop / detailer | Shared corner, без формального lease |
 
 ---
 
@@ -66,7 +79,7 @@ Los Gatos · Saratoga · Campbell · San Jose · Santa Clara · Scotts Valley ·
 
 ## Партнёрство > lease
 
-> We are a three-person team building Analog Machine, a handbuilt BMW E36 demonstrator. Need a clean garage/shop corner 2–3 evenings/week. We can pay modest rent + create content + help with composites/details.
+> We are a 3–4 person team building Analog Machine, a handbuilt BMW E36 demonstrator. Need a clean garage/shop corner 2–3 evenings/week. We can pay modest rent + create content + help with composites/details.
 
 Кому писать: barn owner · detailer · small body shop · race shop · BMW enthusiast garage · Optimus/car network.
 
@@ -79,7 +92,7 @@ Los Gatos · Saratoga · Campbell · San Jose · Santa Clara · Scotts Valley ·
 ```
 Looking for a small private garage / shop corner for a handbuilt car project.
 
-We are a three-person team building Analog Machine — a California handbuilt 
+We are a 3–4 person team building Analog Machine — a California handbuilt 
 analog car concept (BMW E36, AM36 No. 001). Need space for one car, light 
 composite work, fabrication, and filming. Clean, respectful, no late-night 
 noise, no customer traffic.
@@ -93,7 +106,7 @@ Prefer Los Gatos / Saratoga / Santa Cruz Mountains / Highway 9 / South Bay.
 **Short:**
 
 ```
-Three-person team seeking clean garage or shared workshop for BMW E36 handbuilt 
+3–4 person team seeking clean garage or shared workshop for BMW E36 handbuilt 
 project. Light composite/fabrication, content creation, evenings only, respectful 
 use. Monthly rent or partnership. South Bay / Santa Cruz Mountains.
 ```
@@ -125,8 +138,9 @@ use. Monthly rent or partnership. South Bay / Santa Cruz Mountains.
 
 ## Action
 
-- [ ] Vehicle lead: garage доступ для E36? (бесплатно — первый ask)
-- [ ] Параллельно: Craigslist + FB post (текст выше)
+- [ ] **Кто в сети с гаражом/barn?** — идеальный кандидат на 4-го founder (`TEAM.md`)
+- [ ] Vehicle lead: garage доступ для E36? (бесплатно — второй ask)
+- [ ] Параллельно: Craigslist + FB post (текст выше) — **plan B**
 - [ ] 3 body/detail shops — barter pitch
 - [ ] Зафиксировать в `builds/e36-00/BUILD_BRIEF.md`
 

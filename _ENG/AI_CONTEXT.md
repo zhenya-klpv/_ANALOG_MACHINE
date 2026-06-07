@@ -4,7 +4,7 @@
 > **Update** after major decisions, build milestones, demo car, pricing, brand.  
 > **Working path (EN):** `/Users/zhenya/Documents/_analog_machine/_ENG/`  
 > **Russian:** `../_RU/`  
-> **Last updated:** June 7, 2026 (v1.6 — Phoebe Philo brand DNA expanded)
+> **Last updated:** June 7, 2026 (v1.8 — ideal 4th = premises)
 
 ---
 
@@ -23,10 +23,11 @@
 
 **First product now:** beautiful composite parts + design-led details — **1–2 parts on E36**, not a full restomod.
 
-**Founding team (3):**
+**Founding team (3–4):** min **3**, max **4** at bootstrap.
 - **Zhenya** — brand, content, design, build lead (Optimus Tesla, tech comm)
 - **Friend + E36** — vehicle/mechanical lead, donor car
 - **Composite engineer** — composite/product lead
+- **Ideal 4th** — **founder with premises** (garage/barn/shop). Alt: film, fab, paint. See `TEAM.md` · `WORKSPACE.md`.
 
 Full-time jobs → **2 evenings/week**, nights-only project. See `TEAM.md`, `SPRINT_90D.md`, `FOUNDER_AGREEMENT.md`.
 
@@ -167,7 +168,7 @@ Rebuilt M52/S52 · 250–320 hp · suspension/brakes · −80–150 lb · canyon
 | `INVESTORS.md` | Angels, China/diaspora partners (not now) |
 | `WORKSPACE.md` | Garage $300–700/mo, evening access, search |
 | `TEAM.md` | Roles, E36 options, rhythm |
-| `FOUNDER_AGREEMENT.md` | Three-founder agreement template |
+| `FOUNDER_AGREEMENT.md` | Founder agreement template (3–4) |
 | `SPRINT_90D.md` | Proof sprint, first product ≠ hood |
 | `brand/POSITIONING.md` | California canyon BMW |
 | `brand/CONTENT.md` | 5 jobs, 4 content types, pipeline |
@@ -197,7 +198,7 @@ Rebuilt M52/S52 · 250–320 hp · suspension/brakes · −80–150 lb · canyon
 - [ ] Donor E36 data
 - [ ] Cost estimate for first part (not hood)
 - [x] Brand: **Analog Machine** · **Works** · **AM** · **AM36**
-- [x] Founding team (3) — `TEAM.md`
-- [ ] Founder Agreement — 3 signatures
+- [x] Founding team (3–4) — `TEAM.md`
+- [ ] Founder Agreement — all founder signatures
 - [ ] Workspace: $___/mo or free (friend garage)
 - [ ] First sprint part: _______________

@@ -112,7 +112,7 @@
 
 ## Ресурсы (уже есть)
 
-- **Founding team (3):** brand lead · E36 vehicle lead · composite engineer (Optimus Tesla network)
+- **Founding team (3–4):** brand · E36/mechanical · composite · **идеальный 4-й = помещение** (гараж/barn) — см. `TEAM.md`
 - E36 donor — у vehicle lead
 - Full-time jobs → 2 вечера/нед, не panic pace
 - Процесс, документация, вкус, контент
