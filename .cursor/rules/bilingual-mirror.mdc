@@ -1,0 +1,28 @@
+---
+description: Bilingual mirror — docs live in _RU/ and _ENG/ only, always sync both
+alwaysApply: true
+---
+
+# Bilingual Mirror — Project Law
+
+Read `_RU/PROJECT_LAW.md` and `_ENG/PROJECT_LAW.md`.
+
+## Layout
+
+- **Russian docs:** `_RU/` only (not project root)
+- **English docs:** `_ENG/` only
+- **Root:** `README.md`, `.gitignore`, `.cursor/` only
+
+## Non-negotiable
+
+When creating or editing any `.md` documentation:
+
+1. **Same path in both:** `_RU/foo/bar.md` ↔ `_ENG/foo/bar.md`
+2. **RU → EN:** update `_RU/` → translate and sync `_ENG/`
+3. **EN → RU:** update `_ENG/` → translate and sync `_RU/`
+4. One logical change → both languages same session
+5. Links stay within their language tree (`_RU/` or `_ENG/`)
+6. Images: copy to both trees; translate `INDEX.md`
+7. Structure change → update `_RU/AI_CONTEXT.md` and `_ENG/AI_CONTEXT.md`
+
+Task **not complete** until both `_RU/` and `_ENG/` versions exist and match.
