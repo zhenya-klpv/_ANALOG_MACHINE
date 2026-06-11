@@ -14,5 +14,6 @@ See [`PROJECT_LAW.md`](PROJECT_LAW.md) · Russian: [`../_RU/PROJECT_LAW.md`](../
 
 - [`AI_CONTEXT.md`](AI_CONTEXT.md)
 - [`VISION.md`](VISION.md)
+- [`budget/OVERVIEW.md`](budget/OVERVIEW.md) · [`projects/`](projects/) · [`projects/_audi_s6/`](projects/_audi_s6/)
 - [`TEAM.md`](TEAM.md)
 - [`SPRINT_90D.md`](SPRINT_90D.md)

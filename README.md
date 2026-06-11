@@ -20,6 +20,9 @@ Same file tree inside. Every new `.md` → **both languages**.
 |---|-----|-----|
 | AI context | [`_RU/AI_CONTEXT.md`](_RU/AI_CONTEXT.md) | [`_ENG/AI_CONTEXT.md`](_ENG/AI_CONTEXT.md) |
 | Vision | [`_RU/VISION.md`](_RU/VISION.md) | [`_ENG/VISION.md`](_ENG/VISION.md) |
+| Budget | [`_RU/budget/OVERVIEW.md`](_RU/budget/OVERVIEW.md) | [`_ENG/budget/OVERVIEW.md`](_ENG/budget/OVERVIEW.md) |
+| Projects | [`_RU/projects/`](_RU/projects/) | [`_ENG/projects/`](_ENG/projects/) |
+| `_audi_s6` trial | [`_RU/projects/_audi_s6/`](_RU/projects/_audi_s6/) | [`_ENG/projects/_audi_s6/`](_ENG/projects/_audi_s6/) |
 | Team | [`_RU/TEAM.md`](_RU/TEAM.md) | [`_ENG/TEAM.md`](_ENG/TEAM.md) |
 | 90-day sprint | [`_RU/SPRINT_90D.md`](_RU/SPRINT_90D.md) | [`_ENG/SPRINT_90D.md`](_ENG/SPRINT_90D.md) |
 

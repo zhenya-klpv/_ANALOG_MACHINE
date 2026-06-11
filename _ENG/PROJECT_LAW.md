@@ -30,7 +30,14 @@ One logical change = **both files** updated in the same session. Never leave the
 ```
 _RU/brand/BRAND.md          ↔  _ENG/brand/BRAND.md
 _RU/builds/e36-00/BUILD_BRIEF.md  ↔  _ENG/builds/e36-00/BUILD_BRIEF.md
+_RU/budget/OVERVIEW.md           ↔  _ENG/budget/OVERVIEW.md
+_RU/budget/_audi_s6/BUDGET.md     ↔  _ENG/budget/_audi_s6/BUDGET.md
+_RU/projects/_audi_s6/PROJECT.md  ↔  _ENG/projects/_audi_s6/PROJECT.md
 ```
+
+### Rule 5 — Budget
+
+Every spend or planned purchase → `budget/<id>/BUDGET.md` **and** `budget/OVERVIEW.md` in **both** languages. Project work lives in `projects/<id>/`. See [`budget/BUDGET_LAW.md`](budget/BUDGET_LAW.md) · `.cursor/rules/budget-tracking.mdc`.
 
 **Project root** holds only `README.md`, `.gitignore`, `.cursor/`. **Do not** put doc `.md` files at root.
 

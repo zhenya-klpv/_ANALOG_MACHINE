@@ -1,0 +1,27 @@
+---
+description: Budget tracking — OVERVIEW + per-project ledgers in budget/
+alwaysApply: true
+---
+
+# Budget Tracking — Project Law
+
+Read `_RU/budget/BUDGET_LAW.md` and `_ENG/budget/BUDGET_LAW.md`.
+
+## Layout
+
+- **Master ledger:** `_RU/budget/OVERVIEW.md` ↔ `_ENG/budget/OVERVIEW.md`
+- **Per-project budget:** `_RU/budget/<id>/BUDGET.md` ↔ `_ENG/budget/<id>/BUDGET.md`
+- **Per-project work:** `_RU/projects/<id>/` ↔ `_ENG/projects/<id>/` (PROJECT.md, PROCESS.md, etc.)
+
+**Budget and projects are separate top-level folders** — linked by `<id>`.
+
+## Non-negotiable
+
+1. **Every purchase or planned spend** → add row to `budget/<id>/BUDGET.md` **and** update `budget/OVERVIEW.md` roll-up same session.
+2. **New project** → create `projects/<id>/` **and** `budget/<id>/BUDGET.md` in **both** `_RU/` and `_ENG/`.
+3. Project folder names: lowercase, underscore prefix for side projects OK (e.g. `_audi_s6`).
+4. Bilingual mirror: budget `.md` files follow same rules as `PROJECT_LAW.md`.
+5. **Approve before buy:** material spend only after line exists in `BUDGET.md` with planned amount (see `BOOTSTRAP.md` cash rules).
+6. Do not delete rows — strike through or mark `cancelled`; keep audit trail.
+
+Task **not complete** if money moved but budgets not updated in both languages.

@@ -30,7 +30,14 @@
 ```
 _RU/brand/BRAND.md          ↔  _ENG/brand/BRAND.md
 _RU/builds/e36-00/BUILD_BRIEF.md  ↔  _ENG/builds/e36-00/BUILD_BRIEF.md
+_RU/budget/OVERVIEW.md           ↔  _ENG/budget/OVERVIEW.md
+_RU/budget/_audi_s6/BUDGET.md     ↔  _ENG/budget/_audi_s6/BUDGET.md
+_RU/projects/_audi_s6/PROJECT.md  ↔  _ENG/projects/_audi_s6/PROJECT.md
 ```
+
+### Правило 5 — Бюджет
+
+Любая трата или план покупки → `budget/<id>/BUDGET.md` **и** `budget/OVERVIEW.md` в **обоих** языках. Работа проекта — в `projects/<id>/`. См. [`budget/BUDGET_LAW.md`](budget/BUDGET_LAW.md) · `.cursor/rules/budget-tracking.mdc`.
 
 **В корне проекта** — только `README.md`, `.gitignore`, `.cursor/`. **Не** класть `.md` документацию в корень.
 

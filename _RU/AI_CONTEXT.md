@@ -4,7 +4,7 @@
 > **Обновлять** после крупных решений, этапов билда, появления demo car, pricing, бренда.  
 > **Рабочий путь (RU):** `/Users/zhenya/Documents/_analog_machine/_RU/`  
 > **English:** `../_ENG/`  
-> **Последнее обновление:** 7 июня 2026 (v1.8 — идеальный 4-й = помещение)
+> **Последнее обновление:** 10 июня 2026 (v2.2 — `budget/` + `projects/` split)
 
 ---
 
@@ -22,6 +22,8 @@
 **Сейчас (bootstrap):** нет свободных денег (кредиты + аренда) → **не ателье**, а **медиа + портфолио + маленькие paid-заказы**. См. `BOOTSTRAP.md`.
 
 **Первый продукт сейчас:** beautiful composite parts + design-led details — **1–2 детали на E36**, не полный рестомод.
+
+**Сейчас (trial):** проект **`_audi_s6`** — carbon practice на **Audi S6 C5** (interior trim: `vent-main` → `vent-upper` → doors → shifter). **Не AM36.** Mold + обучение; материалы заказаны FGS **#16141** ($542.94). Проект: `projects/_audi_s6/` · бюджет: `budget/_audi_s6/BUDGET.md`.
 
 **Founding team (3–4):** мин **3**, макс **4** на bootstrap.
 - **Zhenya** — brand, content, design, build lead (Optimus Tesla, tech comm)
@@ -156,6 +158,12 @@ Rebuilt M52/S52 · 250–320 hp · suspension/brakes · −80–150 lb · canyon
 | `../README.md` | Вход в проект (RU + EN) |
 | `PROJECT_LAW.md` | **Закон:** `_RU/` ↔ `_ENG/` синхронно |
 | `../.cursor/rules/bilingual-mirror.mdc` | Cursor: всегда применять зеркало |
+| `../.cursor/rules/budget-tracking.mdc` | Cursor: бюджет при каждой трате |
+| `budget/BUDGET_LAW.md` | Закон бюджета: OVERVIEW + per-project |
+| `budget/OVERVIEW.md` | **Общий бюджет** |
+| `budget/_audi_s6/BUDGET.md` | Бюджет trial `_audi_s6` |
+| `projects/` | **Активные проекты** (работа, не деньги) |
+| `projects/_audi_s6/` | Trial: Audi S6 interior carbon trim |
 | `AI_CONTEXT.md` | Этот файл |
 | `VISION.md` | Бренд, позиционирование, visual language |
 | `ROADMAP.md` | Этапы проекта и чеклисты |
@@ -184,22 +192,74 @@ Rebuilt M52/S52 · 250–320 hp · suspension/brakes · −80–150 lb · canyon
 
 ## 9. Следующий шаг (немедленно)
 
-1. **Founder meeting 30 min** — роли, E36 вариант A, подписать `FOUNDER_AGREEMENT.md`
-2. **Workspace** — гараж vehicle lead + Craigslist $300–700 (`WORKSPACE.md`)
-3. **Выбрать первую деталь** — не hood; 2–4 нед (`SPRINT_90D.md`)
-4. @analogmachineworks + baseline E36 shoot
-5. 90-day sprint → proof → потом angels/patrons
+### `_audi_s6` (активно)
+1. Дождаться FGS **#16141** (UPS → San Jose)
+2. Купить **#11 PP sheet** локально (TAP / hardware) — фланец формы
+3. Фото **задней стороны** донорской рамки → `reference/` + `TEARDOWN.md`
+4. **Фаза 1** master на доноре → **Фаза 2** female mold → test pull → carbon `vent-main`
 
-**Формат:** Analog Machine — nights-only handbuilt project. Не factory. Не panic.
+### Analog Machine (bootstrap)
+1. Founder meeting 30 min — роли, E36, `FOUNDER_AGREEMENT.md`
+2. Workspace — гараж $300–700 (`WORKSPACE.md`)
+3. Первая деталь E36 — не hood (`SPRINT_90D.md`)
+4. @analogmachineworks + baseline E36 shoot
+
+**Формат:** nights-only handbuilt project. Не factory. Не panic.
 
 ---
 
-## 10. Открытые вопросы
+## 10. `_audi_s6` — trial (активный)
+
+| | |
+|---|---|
+| **Платформа** | Audi S6 **C5** (A6/S6/RS6) · чёрный салон |
+| **Цель** | Вспомнить carbon; **molded parts**, не skinning |
+| **Старт** | `vent-main` — прямоугольная рамка дефлектора |
+| **Подход** | OEM donor → **female mold** → carbon part; гибрид сзади (clips / 3D-print) |
+| **Финиш** | 2x2 twill 200 g/m² · epoxy · vacuum bag · **satin** 2K clear |
+| **Не трогать** | ламели, слайдер, forged carbon, carbon wrap |
+
+### Mold workflow (факт — по заказу FGS)
+
+**Форма:** polyester Orange Tooling Gelcoat + MEKP → iso tooling resin + **1.5 oz chop mat** (3 yd) + **6 oz cloth** (3 yd).  
+**Деталь:** West System **105 + 206** + свой carbon cloth. Перед pull: wax + PVA на лице формы.
+
+*Eco-решения:* без 10 oz cloth (#7 → +слои mat); без peel ply (#19) пока; **403** вместо cotton flock (#9); **IPA 99%** вместо denatured alcohol.
+
+### Уже есть (не покупали)
+Vacuum film · carbon cloth · tape/fittings/hoses · brushes · nitrile gloves · scale 0.1 g · paper mix cups · **donor C5 vent frame** (master) · **IPA 99%**
+
+### Заказ FGS #16141 (2026-06-10)
+
+| | $ |
+|---|---|
+| Materials | 430.83 |
+| UPS Ground | 80.87 |
+| CA tax | 31.24 |
+| **Total** | **542.94** |
+
+Чек: `projects/_audi_s6/reference/order-fgs-16141.pdf` · бюджет: `budget/_audi_s6/BUDGET.md` · список: `projects/_audi_s6/SHOPPING_LIST.md`
+
+**Ещё купить:** PP sheet (#11) · satin clear + sandpaper — после test pull (#17–18)
+
+### Документы trial
+
+`projects/_audi_s6/` — `PROJECT.md` · `APPROACH.md` · `PROCESS.md` · `PARTS.md` · `SHOPPING_LIST.md` · `TEARDOWN.md` · `reference/` · бюджет: `budget/_audi_s6/BUDGET.md`
+
+### Открыто по `_audi_s6`
+- [ ] Доставка FGS #16141
+- [ ] Фото зад рамки + `TEARDOWN.md`
+- [ ] PP flange sheet (#11)
+- [ ] Material budget cap (total project)
+
+---
+
+## 11. Открытые вопросы (Analog Machine)
 
 - [ ] Данные donor E36
-- [ ] Cost estimate первой детали (не hood)
+- [ ] Cost estimate первой детали E36 (не hood)
 - [x] Brand: **Analog Machine** · **Works** · **AM** · **AM36**
 - [x] Founding team (3–4) — `TEAM.md`
 - [ ] Founder Agreement — подписи всех founders
 - [ ] Workspace: $___/mo или free (friend garage)
-- [ ] Первая деталь sprint: _______________
+- [ ] Первая деталь sprint E36: _______________
