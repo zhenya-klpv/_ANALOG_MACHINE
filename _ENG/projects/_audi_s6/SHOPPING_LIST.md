@@ -1,6 +1,6 @@
 # _audi_s6 — Shopping List (mold)
 
-> Approach: [`APPROACH.md`](APPROACH.md) · budget: [`../../budget/_audi_s6/BUDGET.md`](../../budget/_audi_s6/BUDGET.md)  
+> Approach: [`APPROACH.md`](APPROACH.md) · budget: [`../../budget/_audi_s6/BUDGET.md`](../../budget/_audi_s6/BUDGET.md) · suppliers: [`../../suppliers/`](../../suppliers/)  
 > **FGS #16141** paid · Planned/Actual in [`../../budget/_audi_s6/BUDGET.md`](../../budget/_audi_s6/BUDGET.md).
 
 **On hand:**

@@ -4,7 +4,7 @@
 > **Обновлять** после крупных решений, этапов билда, появления demo car, pricing, бренда.  
 > **Рабочий путь (RU):** `/Users/zhenya/Documents/_analog_machine/_RU/`  
 > **English:** `../_ENG/`  
-> **Последнее обновление:** 10 июня 2026 (v2.2 — `budget/` + `projects/` split)
+> **Последнее обновление:** 7 июня 2026 (v2.3 — `suppliers/` research)
 
 ---
 
@@ -164,6 +164,7 @@ Rebuilt M52/S52 · 250–320 hp · suspension/brakes · −80–150 lb · canyon
 | `budget/_audi_s6/BUDGET.md` | Бюджет trial `_audi_s6` |
 | `projects/` | **Активные проекты** (работа, не деньги) |
 | `projects/_audi_s6/` | Trial: Audi S6 interior carbon trim |
+| `suppliers/` | **Поставщики** — формы, carbon, prepreg, Bay Area · [`suppliers/MATRIX.md`](suppliers/MATRIX.md) |
 | `AI_CONTEXT.md` | Этот файл |
 | `VISION.md` | Бренд, позиционирование, visual language |
 | `ROADMAP.md` | Этапы проекта и чеклисты |

@@ -1,6 +1,6 @@
 # _audi_s6 — Список закупок (форма)
 
-> Подход: [`APPROACH.md`](APPROACH.md) · бюджет: [`../../budget/_audi_s6/BUDGET.md`](../../budget/_audi_s6/BUDGET.md)  
+> Подход: [`APPROACH.md`](APPROACH.md) · бюджет: [`../../budget/_audi_s6/BUDGET.md`](../../budget/_audi_s6/BUDGET.md) · поставщики: [`../../suppliers/`](../../suppliers/)  
 > **FGS #16141** оплачен · Planned/Actual в [`../../budget/_audi_s6/BUDGET.md`](../../budget/_audi_s6/BUDGET.md).
 
 **Уже есть:**
